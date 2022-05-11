@@ -1,0 +1,56 @@
+
+/* SELECTOR DE ESIQUETA */
+
+doby {
+    background-color: blue;
+}
+
+p{
+    color: white
+    font: size 25px;
+    font-weight: bolder;
+}
+
+/* selector de clases */
+
+.rojo
+
+
+
+/* selector de etiqueta */
+
+cuerpo {
+    color de fondo :  # 256976 ;
+}
+
+pag {
+    color : blanco;
+    tamaño de fuente :  25 px ;
+    font-weight : más negrita;
+}
+
+imagen {
+    /* altura: 300px; */
+    ancho :  300 píxeles ;
+}
+
+un {
+    color : azul alice;
+    tamaño de fuente :  25 px ;
+    decoración de texto : ninguno;
+}
+
+
+/* selector de tipo de clase */
+
+. rojo {
+    color : rojo;
+}
+
+
+# especiales {
+    familia de fuentes : Arial , Helvetica , sans-serif;
+    color : oro;
+    tamaño de fuente :  20 px ;
+    fuente-peso : más ligero;
+}
